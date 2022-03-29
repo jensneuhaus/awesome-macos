@@ -24,3 +24,4 @@ A modern, user-friendly command-line HTTP client for the API era. JSON support, 
 
 A modern replacement for `ls`.
 
+![Screenshots of exa](screenshots/exa.png)
