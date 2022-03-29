@@ -8,6 +8,8 @@
 
 ## `dive`
 
+![Screenshots of exa](screenshots/dive.png)
+
 ## `httpie`
 
 [![Homepage](https://img.shields.io/badge/Homepage-green)](https://httpie.io/)
@@ -28,3 +30,4 @@ A modern replacement for `ls`.
 
 ## `ngrok`
 
+![Screenshots of exa](screenshots/ngrok.png)
