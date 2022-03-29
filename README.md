@@ -17,6 +17,8 @@
 
 A modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
+![Screenshots of exa](screenshots/httpie.png)
+
 ## `exa`
 
 [![Homepage](https://img.shields.io/badge/Homepage-green)](https://the.exa.website/)
